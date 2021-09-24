@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url("https://media.giphy.com/media/3oriNPdeu2W1aelciY/giphy.gif");
+    /* background-image: url("https://media.giphy.com/media/3oGRFlpAW4sIHA02NW/giphy.gif"); */
+    background-size: cover;
+   text-align: center; 
+}
+
+h1{
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 7rem;
+    margin-top: 1%;
+
+}
+
+footer p {
+    font-size: 2rem;
+    font-family: 'Paytone One', sans-serif;
+    margin-top: 6%;
+}
+
+.dice{
+    margin-top: 4%;
+    padding: 0% 5%;
+}
+
+.dice p{
+    font-family: 'Bangers', cursive;
+    font-size: 4rem;
+}
+
+.button{
+    margin-top: 4%;
+}
